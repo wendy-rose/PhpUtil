@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * redis计数器工具类，可用于解决并发操作
+ * Class RedisCounter
+ */
 class RedisCounter
 {
 
